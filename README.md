@@ -15,7 +15,7 @@
   
 - 🤔 I’m looking for help with  **Flutter and Microservices**
 
-- ☕ Interest: Computer Science, Engineering, Philosophy, Reading, Cooking and Gaming.
+- ☕ Interest: Computer Science, Engineering, Psychology, Reading, Cooking and Gaming.
 
 - ⚡ Fun fact **Coding is a passion and not a profession.**
 
