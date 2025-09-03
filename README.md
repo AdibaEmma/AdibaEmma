@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AdibaEmma" alt="AdibaEmma"> </p>
 <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px>
 
-- 🔭 I’m currently working on my **Admin Dashboard for a Fintech App** 
+- 🔭 I’m currently working on my **Review App Porject** 
 
 - 🌱 I’m currently learning **NestJS, Microservices, GraphQL**
 
@@ -13,7 +13,7 @@
 
 - 📝 I have a strong interest in Data Science and Artificial Intelligence
   
-- 🤔 I’m looking for help with  **Flutter and Microservices**
+- 🤔 I’m looking for help with  **Mobile Development and Microservices**
 
 - ☕ Interest: Computer Science, Engineering, Psychology, Reading, Cooking and Gaming.
 
